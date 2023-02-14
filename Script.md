@@ -1,5 +1,3 @@
-This script is only for Buyers or Players exploiters in discord this the Script which i will be supporting on kolher discord server.
-
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 local Window = Library.CreateLib("Chaos Support", "Synapse")
 
